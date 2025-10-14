@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 # 👋 ¡Hola! Soy EduErci
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding gif"/>
+</div>
+
 
 Soy un desarrollador apasionado por la tecnología, el código limpio y los proyectos creativos. Me encanta aprender cosas nuevas y compartir lo que sé.
 
